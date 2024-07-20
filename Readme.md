@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am working on a django site that allows sellers to manage order requests and receive paymensts <br>I am currently learning ML and data analytics looking to branch into algorithmic trading <br>I know html, css, js, django and python
+I am working on a django site that allows sellers to manage order requests and receive momo paymensts as well as automate delivery.
+http://buzelstores.com
 
 
 ## 🌐 Socials:
