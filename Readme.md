@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am working on a django site that allows sellers to manage order requests and receive momo paymensts as well as automate delivery.
+I am working on a django site that allows sellers to manage order requests, receive momo paymensts as well as automate delivery.
 http://buzelstores.com
 
 
